@@ -1,4 +1,4 @@
-# Group project of Linux OS course
+Group project of Linux OS course
 -----
 Program an inteligent agent who moves in a “dungeon” modeled by a graph.<br>
 1st part: The movement of the agent is entirely “driven” by user.<br>
